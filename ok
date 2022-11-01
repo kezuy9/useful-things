@@ -130,11 +130,12 @@ local q = {
     "Sword Dimension",
     "Ghoul Dimension",
     "Fate Dimension",
-    "Slime Dimension"
+    "Slime Dimension",
+    "Halloween Dimension"
 }
 local r = {"Easy", "Hard", "Nightmare", "Infinite"}
 local s = {"Capsule Series 1", "Raid Capsule", "Gear 5 Fluffy Capsule", "Esper Capsule"}
-local t = { "Tengoku Raid", "Hirito Raid", "Titan Raid", "Tengu Raid", "Red Emperor Raid","Cursed Sage Raid"}
+local t = { "Tengoku Raid", "Hirito Raid", "Titan Raid", "Nardo Beast Raid", "Chainsaw Raid","Cursed Sage Raid"}
 local u = loadstring(game:HttpGet("https://www.klgrth.io/paste/gs77p/raw"))()
 local v = u:MakeWindow({Name = "Anime Dimensions", HidePremium = true})
 local w = v:MakeTab({Name = "Main", PremiumOnly = false})
